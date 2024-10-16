@@ -18,4 +18,4 @@ function divide(a, b) {
 function square(a) {
   return a ** 2;
 }
-export { add, divide };
+export { add, divide, subtract, multiply, square };
